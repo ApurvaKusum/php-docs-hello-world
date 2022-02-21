@@ -1,3 +1,4 @@
 <?php
-
-echo "Hello World Puneet !";
+  echo "Hello World!";
+  echo "PHP is so easy!";
+?>
